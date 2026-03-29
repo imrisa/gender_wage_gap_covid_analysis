@@ -78,7 +78,14 @@ UC San Diego | Economics
 Interested in social epidemiology and data analysis
 
 ---
+## Full Paper
 
+You can view the full analysis here:
+
+[Download the full paper](gender_wage_gap_covid_analysis.pdf)
+
+
+---
 # COVID-19による男女賃金格差の変化
 
 ## 概要
@@ -125,3 +132,10 @@ Interested in social epidemiology and data analysis
 - Python  
 - Stata  
 - Tableau
+
+---
+## 論文全文
+
+分析の詳細はこちらからご覧いただけます：
+
+[論文をダウンロード](gender_wage_gap_covid_analysis.pdf)
