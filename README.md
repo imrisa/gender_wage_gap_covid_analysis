@@ -65,9 +65,7 @@ These factors suggest that the true burden of the pandemic on gender inequality 
 ---
 ## Tools Used
 
-- Python (data cleaning & analysis)
 - Stata (regression analysis)
-- Tableau (visualization, optional if used)
 
 ---
 
@@ -129,9 +127,8 @@ You can view the full analysis here:
 
 ## ツール
 
-- Python  
 - Stata  
-- Tableau
+
 
 ---
 ## 論文全文
