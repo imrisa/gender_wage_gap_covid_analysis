@@ -54,7 +54,15 @@ The increase in average wages may reflect:
 - Short-term analysis (long-term effects unknown)
 
 ---
+## Conclusion
 
+This analysis finds that, among individuals who remained in the labor force, the gender wage gap did not significantly change after COVID-19.
+
+However, this result may mask important inequalities. Women were more likely to work in service-sector jobs that were heavily affected by layoffs during the pandemic. In addition, increased childcare responsibilities during remote work disproportionately affected women.
+
+These factors suggest that the true burden of the pandemic on gender inequality may not be fully captured by wage data alone. Future research should examine labor force participation and unpaid labor to better understand these “invisible” dimensions of inequality.
+
+---
 ## Tools Used
 
 - Python (data cleaning & analysis)
@@ -94,10 +102,21 @@ Interested in social epidemiology and data analysis
 - モデル：差の差分法（DID）
 
 ---
+## 可視化
 
-## 解釈
+![賃金トレンド](wage_trend.png)
 
-パンデミックは労働市場に大きな影響を与えたが、雇用を維持した人々の間では男女の賃金格差は変化しなかった。
+この図は、2018年から2022年にかけた男女の平均時給の推移を示している。パンデミック後、男女ともに賃金は上昇しているものの、男女間の賃金格差は大きく変化していないことがわかる。回帰分析の結果も、この変化が統計的に有意ではないことを示している。
+
+---
+## 結論
+
+本分析では、労働市場に残っているフルタイム労働者に限定した場合、COVID-19後も男女賃金格差に統計的に有意な変化は見られなかった。
+
+しかし、この結果は重要な不平等を見えにくくしている可能性がある。女性はサービス業などパンデミックの影響を強く受けた産業に多く従事しており、解雇や雇用喪失の影響をより受けやすかった。また、リモートワークの拡大に伴い、育児など家庭内の負担も女性に偏る傾向があった。
+
+このように、賃金データのみでは捉えきれない「見えない不平等」が存在する可能性がある。今後は、労働参加や無償労働といった側面も含めた分析が必要である。
+
 
 ---
 
