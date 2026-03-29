@@ -65,7 +65,7 @@ These factors suggest that the true burden of the pandemic on gender inequality 
 ---
 ## Tools Used
 
-- Stata (regression analysis)
+- Stata 
 
 ---
 
