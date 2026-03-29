@@ -1,3 +1,70 @@
+# Gender Wage Gap under COVID-19
+
+## Overview
+This project examines how the COVID-19 pandemic affected the gender wage gap in the United States. Using a difference-in-differences (DID) framework, the analysis compares wage outcomes before (2018–2019) and after (2021–2022) the pandemic.
+
+The study focuses on prime-age, full-time workers to isolate wage differences among those who remained employed.
+
+---
+
+## Key Findings
+
+- Women earn significantly lower wages than men, even after controlling for observable characteristics  
+- Average wages increased after COVID-19 for both men and women  
+- The gender wage gap did **not significantly change** after the pandemic  
+- This suggests that structural inequalities persisted despite large economic shocks  
+
+---
+
+## Methodology
+
+- Data Source: American Community Survey (ACS) via IPUMS  
+- Sample: Ages 25–39, full-time workers, positive wage income  
+- Model: Difference-in-Differences (DID)
+
+Regression specification:
+
+ln(wage) = β₀ + β₁ Female + β₂ Post + β₃ (Female × Post) + Controls + ε
+
+- Controls include: age, education, race, occupation, industry, and state fixed effects  
+
+---
+
+## Interpretation
+
+While the pandemic significantly disrupted labor markets, it did not alter the relative wage gap between men and women among employed workers.
+
+The increase in average wages may reflect:
+- labor market recovery
+- inflationary pressure
+- compositional effects (exit of lower-wage workers)
+
+---
+
+## Limitations
+
+- Focuses only on employed individuals (selection bias)
+- Does not capture labor force exit
+- Short-term analysis (long-term effects unknown)
+
+---
+
+## Tools Used
+
+- Python (data cleaning & analysis)
+- Stata (regression analysis)
+- Tableau (visualization, optional if used)
+
+---
+
+## Author
+
+Risa Kuriyama  
+UC San Diego | Economics  
+Interested in social epidemiology and data analysis
+
+---
+
 # COVID-19による男女賃金格差の変化
 
 ## 概要
