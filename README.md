@@ -29,7 +29,13 @@ ln(wage) = β₀ + β₁ Female + β₂ Post + β₃ (Female × Post) + Controls
 - Controls include: age, education, race, occupation, industry, and state fixed effects  
 
 ---
+## Visualization
 
+![Wage Trend](wage_trend.png)
+
+This figure shows trends in average hourly wages for men and women from 2018 to 2022. While wages increased for both groups over time, the gender wage gap remained relatively stable. Regression results confirm that this change is not statistically significant.
+
+---
 ## Interpretation
 
 While the pandemic significantly disrupted labor markets, it did not alter the relative wage gap between men and women among employed workers.
